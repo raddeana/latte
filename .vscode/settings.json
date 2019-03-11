@@ -42,6 +42,7 @@
         "cctype": "cpp",
         "clocale": "cpp",
         "cwctype": "cpp",
-        "string_view": "cpp"
+        "string_view": "cpp",
+        "string.h": "c"
     }
 }
