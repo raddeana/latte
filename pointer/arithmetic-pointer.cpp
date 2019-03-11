@@ -1,3 +1,7 @@
+/**
+ * 指针运算
+ * @author unknow
+ */
 #include <iostream>
  
 using namespace std;
@@ -9,8 +13,7 @@ int main () {
  
    // 指针中的数组地址
    ptr = var;
-   for (int i = 0; i < MAX; i++)
-   {
+   for (int i = 0; i < MAX; i++) {
       cout << "Address of var[" << i << "] = ";
       cout << ptr << endl;
  

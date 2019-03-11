@@ -1,3 +1,7 @@
+/**
+ * 指针为NULL
+ * @author unknow
+ */
 #include <iostream>
 using namespace std;
 

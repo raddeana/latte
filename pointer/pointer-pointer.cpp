@@ -1,7 +1,15 @@
+/**
+ * 指向指针的指针
+ * @author unknow
+ */
 #include <iostream>
  
 using namespace std;
- 
+
+/**
+ * 主函数
+ * @return {int} 0
+ */
 int main () {
     int  var;
     int  *ptr;

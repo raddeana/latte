@@ -1,8 +1,16 @@
+/**
+ * 数组指针
+ * @author unknow
+ */
 #include <iostream>
  
 using namespace std;
 const int MAX = 3;
- 
+
+/**
+ * 主函数
+ * @return {int} 0
+ */
 int main () {
    int var[MAX] = {10, 100, 200};
  
