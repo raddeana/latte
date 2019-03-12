@@ -43,6 +43,10 @@
         "clocale": "cpp",
         "cwctype": "cpp",
         "string_view": "cpp",
-        "string.h": "c"
+        "string.h": "c",
+        "fstream": "cpp",
+        "array": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp"
     }
 }
