@@ -11,9 +11,9 @@ using namespace std;
  * @return {int} 0
  */
 int main () {
-    int  var;
-    int  *ptr;
-    int  **pptr;
+    int var;
+    int *ptr;
+    int **pptr;
  
     var = 3000;
  
