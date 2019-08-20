@@ -1,5 +1,5 @@
 /**
- * 接口
+ * 基类
  * @author Philip
  */
 #include <iostream>
@@ -44,7 +44,11 @@ class Triangle: public Shape
             return (width * height)/2; 
         }
 };
- 
+
+/**
+ * 主函数
+ * 
+ */
 int main (void)
 {
    Rectangle Rect;
