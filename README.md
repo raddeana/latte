@@ -1,2 +1,2 @@
 # latte
-latte, neurostimulants
+latte, neuro stimulants
